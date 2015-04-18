@@ -1,0 +1,68 @@
+All variables are normalized and range from -1 to 1.
+        Variable                Description
+1	tBodyAcc_Mean_X		Mean time, body acceleration signal in direction X
+2	tBodyAcc_Mean_Y		Mean time, body acceleration signal in direction Y
+3	tBodyAcc_Mean_Z		Mean time, body acceleration signal in direction Z
+4	tGravityAcc_Mean_X	Mean time, gravity acceleration signal in direction X
+5	tGravityAcc_Mean_Y	Mean time, gravity acceleration signal in direction Y
+6	tGravityAcc_Mean_Z	Mean time, gravity acceleration signal in direction Z
+7	tBodyAccJerk_Mean_X	Mean time, body acceleration Jerk signal in direction X
+8	tBodyAccJerk_Mean_Y	Mean time, body acceleration Jerk signal in direction Y
+9	tBodyAccJerk_Mean_Z	Mean time, body acceleration Jerk signal in direction Z
+10	tBodyGyro_Mean_X	Mean time, body gyroscope signal in direction X
+11	tBodyGyro_Mean_Y	Mean time, body gyroscope signal in direction Y
+12	tBodyGyro_Mean_Z	Mean time, body gyroscope signal in direction Z
+13	tBodyGyroJerk_Mean_X	Mean time, body gyroscope Jerk signal in direction X
+14	tBodyGyroJerk_Mean_Y	Mean time, body gyroscope Jerk signal in direction Y
+15	tBodyGyroJerk_Mean_Z	Mean time, body gyroscope Jerk signal in direction Z
+16	tBodyAccMag_Mean	Mean time, body acceleration signal, Euclidean norm
+17	tGravityAccMag_Mean	Mean time, gravity acceleration signal, Euclidean norm
+18	tBodyAccJerkMag_Mean	Mean time, body acceleration Jerk signal, Euclidean norm
+19	tBodyGyroMag_Mean	Mean time, body gyroscope signal, Euclidean norm
+20	tBodyGyroJerkMag_Mean	Mean time, body gyroscope Jerk signal, Euclidean norm
+21	fBodyAcc_Mean_X		Mean frecuency, body acceleration signal in direction X
+22	fBodyAcc_Mean_Y		Mean frecuency, body acceleration signal in direction Y
+23	fBodyAcc_Mean_Z		Mean frecuency, body acceleration signal in direction Z
+24	fBodyAccJerk_Mean_X	Mean frecuency, body acceleration Jerk signal in direction X
+25	fBodyAccJerk_Mean_Y	Mean frecuency, body acceleration Jerk signal in direction Y
+26	fBodyAccJerk_Mean_Z	Mean frecuency, body acceleration Jerk signal in direction Z
+27	fBodyGyro_Mean_X	Mean frecuency, body gyroscope signal in direction X
+28	fBodyGyro_Mean_Y	Mean frecuency, body gyroscope signal in direction Y
+29	fBodyGyro_Mean_Z	Mean frecuency, body gyroscope signal in direction Z
+30	fBodyAccMag_Mean	Mean frecuency, body acceleration signal, Euclidean norm
+31	fBodyAccJerkMag_Mean	Mean frecuency, body acceleration Jerk signal,Euclidean norm
+32	fBodyGyroMag_Mean	Mean frecuency, body gyroscope signal, Euclidean norm
+33	fBodyBodyGyroJerkMag_Mean	Mean frecuency, body gyroscope Jerk signal, Euclidean norm
+34	tBodyAcc_StandardDev_X		Standard deviation of time, body acceleration signal in direction X
+35	tBodyAcc_StandardDev_Y		Standard deviation of time, body acceleration signal in direction Y
+36	tBodyAcc_StandardDev_Z		Standard deviation of time, body acceleration signal in direction Z
+37	tGravityAcc_StandardDev_X	Standard deviation of time, gravity acceleration signal in direction X
+38	tGravityAcc_StandardDev_Y	Standard deviation of time, gravity acceleration signal in direction Y
+39	tGravityAcc_StandardDev_Z	Standard deviation of time, gravity acceleration signal in direction Z
+40	tBodyAccJerk_StandardDev_X	Standard deviation of time, body acceleration Jerk signal in direction X
+41	tBodyAccJerk_StandardDev_Y	Standard deviation of time, body acceleration Jerk signal in direction Y
+42	tBodyAccJerk_StandardDev_Z	Standard deviation of time, body acceleration Jerk signal in direction Z
+43	tBodyGyro_StandardDev_X		Standard deviation of time, body gyroscope signal in direction X
+44	tBodyGyro_StandardDev_Y		Standard deviation of time, body gyroscope signal in direction Y
+45	tBodyGyro_StandardDev_Z		Standard deviation of time, body gyroscope signal in direction Z
+46	tBodyGyroJerk_StandardDev_X	Standard deviation of time, body gyroscope Jerk signal in direction X
+47	tBodyGyroJerk_StandardDev_Y	Standard deviation of time, body gyroscope Jerk signal in direction Y
+48	tBodyGyroJerk_StandardDev_Z	Standard deviation of time, body gyroscope Jerk signal in direction Z
+49	tBodyAccMag_StandardDev		Standard deviation of time, body acceleration signal, Euclidean norm
+50	tGravityAccMag_StandardDev	Standard deviation of time, gravity acceleration signal, Euclidean norm
+51	tBodyAccJerkMag_StandardDev	Standard deviation of time, body acceleration Jerk signal, Euclidean norm
+52	tBodyGyroMag_StandardDev	Standard deviation of time, body gyroscope signal, Euclidean norm
+53	tBodyGyroJerkMag_StandardDev	Standard deviation of time, body gyroscope Jerk signal, Euclidean norm
+54	fBodyAcc_StandardDev_X		Standard deviation of frecuency, body acceleration signal in direction X
+55	fBodyAcc_StandardDev_Y		Standard deviation of frecuency, body acceleration signal in direction Y
+56	fBodyAcc_StandardDev_Z		Standard deviation of frecuency, body acceleration signal in direction Z
+57	fBodyAccJerk_StandardDev_X	Standard deviation of frecuency, body acceleration Jerk signal in direction X
+58	fBodyAccJerk_StandardDev_Y	Standard deviation of frecuency, body acceleration Jerk signal in direction Y
+59	fBodyAccJerk_StandardDev_Z	Standard deviation of frecuency, body acceleration Jerk signal in direction Z
+60	fBodyGyro_StandardDev_X		Standard deviation of frecuency, body gyroscope signal in direction X
+61	fBodyGyro_StandardDev_Y		Standard deviation of frecuency, body gyroscope signal in direction Y
+62	fBodyGyro_StandardDev_Z		Standard deviation of frecuency, body gyroscope signal in direction Z
+63	fBodyAccMag_StandardDev		Standard deviation of frecuency, body acceleration signal, Euclidean norm
+64	fBodyAccJerkMag_StandardDev	Standard deviation of frecuency, body acceleration Jerk signal,Euclidean norm
+65	fBodyGyroMag_StandardDev	Standard deviation of frecuency, body gyroscope signal, Euclidean norm
+66	fBodyGyroJerkMag_StandardDev	Standard deviation of frecuency, body gyroscope Jerk signal, Euclidean norm
