@@ -2,11 +2,6 @@
 
 ## Downloading files and reading data
 
-if (!file.exists("./data")) {dir.create("./data")}
-url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-download.file(url, dest="./data/samsung.zip")
-unzip("./data/samsung.zip")
-
 x_train <- read.table('./UCI HAR Dataset/train/X_train.txt')
 y_train <- read.table('./UCI HAR Dataset/train/y_train.txt', 
                       col.names=c("activityNum"))
