@@ -1,4 +1,4 @@
-# GettingCleaningDataProject
+# Getting and Cleaning Data Project
 
 This file describes how run_analysis.R script works.
 
