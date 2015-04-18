@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data. COURSE PROJECT
 
-## Downloading files and reading data
+## Reading data
 
 x_train <- read.table('./UCI HAR Dataset/train/X_train.txt')
 y_train <- read.table('./UCI HAR Dataset/train/y_train.txt', 
